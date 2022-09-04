@@ -24,11 +24,11 @@ export const config = {
    *   }, 
    * ]
    */
-  USERS: ["li_wei_1110"]
+  USERS: [
     {
       // 想要发送的人的名字
       name: "臭猪",
-      // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到,"sxt1414442825"
+      // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到,
       id: "oDXlU6ItPg9HkwhBVntbvteFbLLQ",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "fbTN6qpTeQAWJP3j_VrmxIsBv3-jgkRev5kJpKrullo",
