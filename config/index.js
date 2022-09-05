@@ -29,7 +29,7 @@ export const config = {
       // 想要发送的人的名字
       name: "李大帅哥",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到,
-      id: "",
+      id: "oDXlU6ItPg9HkwhBVntbvteFbLLQ",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "fbTN6qpTeQAWJP3j_VrmxIsBv3-jgkRev5kJpKrullo",
       // 所在省份
@@ -41,7 +41,7 @@ export const config = {
     }, 
     {
       name: "臭猪", 
-      id: "oDXlU6ItPg9HkwhBVntbvteFbLLQ",
+      id: "oDXlU6DfvKhQWJungvr94LdyscQk",
       useTemplateId: "qW6IGLm8iIt4IJK8uiu1XTg-zfhUGQVeUACJ6d7fF8k",
       province: "江苏",
       city: "常州",
@@ -103,6 +103,7 @@ export const config = {
    */
   FESTIVALS: [
     {"type": "生日", "name": "臭猪", "year": "1995", "date": "08-01"},
+    {"type": "生日", "name": "李大帅哥", "year": "1996", "date": "11-10"},
     {"type": "节日", "name": "中秋", "year": "2022", "date": "09-10"},
     {"type": "节日", "name": "国庆", "year": "2022", "date": "10-01"},
   ],
