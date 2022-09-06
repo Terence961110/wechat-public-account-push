@@ -27,11 +27,11 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "李大帅哥",
+      name: "李大师",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到,
       id: "oDXlU6ItPg9HkwhBVntbvteFbLLQ",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "fbTN6qpTeQAWJP3j_VrmxIsBv3-jgkRev5kJpKrullo",
+      useTemplateId: "jlW_PxEXGhmJR1qkzsq0GzDCvjZcSKxRI6nc0yhn-Bs",
       // 所在省份
       province: "江苏",
       // 所在城市
@@ -70,7 +70,7 @@ export const config = {
    */
 
   // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "fbTN6qpTeQAWJP3j_VrmxIsBv3-jgkRev5kJpKrullo",
+  CALLBACK_TEMPLATE_ID: "qW6IGLm8iIt4IJK8uiu1XTg-zfhUGQVeUACJ6d7fF8k",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
