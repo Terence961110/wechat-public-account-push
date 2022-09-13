@@ -42,7 +42,7 @@ export const config = {
     {
       name: "臭猪", 
       id: "oDXlU6DfvKhQWJungvr94LdyscQk",
-      useTemplateId: "qW6IGLm8iIt4IJK8uiu1XTg-zfhUGQVeUACJ6d7fF8k",
+      useTemplateId: "1dLfDdr_II8yjayZTKMLnTi6Q_RGaiQswRnyPv4i0DU",
       province: "江苏",
       city: "常州",
       openUrl: "https://music.163.com/#/user/songs/rank?id=132514428"
