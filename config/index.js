@@ -104,7 +104,7 @@ export const config = {
   FESTIVALS: [
     {"type": "生日", "name": "臭猪", "year": "1995", "date": "08-01"},
     {"type": "生日", "name": "李大帅哥", "year": "1996", "date": "11-10"},
-    {"type": "节日", "name": "春分", "year": "2023", "date": "03-21"},
+    {"type": "节日", "name": "清明", "year": "2023", "date": "04-05"},
     {"type": "节日", "name": "愚人节", "year": "2023", "date": "04-01"},
   ],
 
