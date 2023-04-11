@@ -105,7 +105,7 @@ export const config = {
     {"type": "生日", "name": "臭猪", "year": "1995", "date": "08-01"},
     {"type": "生日", "name": "李大帅哥", "year": "1996", "date": "11-10"},
     {"type": "节日", "name": "谷雨", "year": "2023", "date": "04-20"},
-    {"type": "节日", "name": "复活节", "year": "2023", "date": "04-09"},
+    {"type": "节日", "name": "劳动节", "year": "2023", "date": "05-01"},
   ],
 
   /**
